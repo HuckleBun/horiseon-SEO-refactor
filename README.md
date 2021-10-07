@@ -7,5 +7,5 @@ Horiseon is a web page to help you better understand search engine optimization 
 # Deployed Application
 https://hucklebun.github.io/horiseon-SEO-refactor/
 
-#Contributor(s)
+# Contributor(s)
 Micah Duehring
