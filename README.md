@@ -8,4 +8,4 @@ Horiseon is a web page to help you better understand search engine optimization 
 https://hucklebun.github.io/horiseon-SEO-refactor/
 
 # Contributor(s)
-Micah Duehring
+Micah Duehring (HuckleBun) -- https://github.com/HuckleBun
